@@ -6,7 +6,7 @@ public class Sasikant {
 
 		System.out.println("Hai I am Kiran");
 		System.out.println("Hai hello world");
-		System.out.println("I suport LG Tv");
+		System.out.println("I suport Sony Tv");
 
 	}
 
